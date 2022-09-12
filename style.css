@@ -78,11 +78,16 @@ h2{
     margin-top: 50px;
     font-size:60px;
     letter-spacing: 10px;
+    color:#1a274e;
+
 
 }
 
 
-
+p{
+    text-align: center;
+    font-size:20px;
+}
 
 
 .about{
