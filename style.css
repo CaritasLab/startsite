@@ -111,7 +111,7 @@ p{
     
 }
 .about ul{
-	width: calc(99%/2);/*←画像を横に4つ並べる場合*/
+	width: calc(100%/2);/*←画像を横に4つ並べる場合*/
 	box-sizing:border-box;
     list-style:none
     
@@ -180,7 +180,7 @@ p{
 }
 
 .form p{
-    font-size:30px;
+    font-size:25px;
     
 }
 
